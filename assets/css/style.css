@@ -113,6 +113,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 15px 0;
   border-bottom: 1px solid rgba(58, 7, 7, 0.0);;
 }
+
 #header.header-scrolled {
   border-color:rgba(58, 7, 7, 0.0);;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
@@ -337,12 +338,14 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   position: relative;
   background: url("../img/d6yp9od-a0f82012-56a8-4a2c-a72c-be4003f707a9.jpg") top center;
+   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
   background-size: cover;
   position: relative;
 }
 #hero:before {
   content: "";
-  background: rgba(58, 7, 7, 0.0);
+  background: black;
+  opacity: 0.5;
   position: absolute;
   bottom: 0;
   top: 0;
