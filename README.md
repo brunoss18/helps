@@ -33,7 +33,7 @@ Landing page para a Helps, possiblitará o contato dos clientes com a Helps e ta
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através helpsco.netlify.app 
+Você pode visualizar o layout do projeto através https://helpsco.netlify.app 
 
 
 
